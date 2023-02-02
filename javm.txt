@@ -1,4 +1,0 @@
-clss machli{
-public static void main(String[]srgs);
-
-system.out.println("hellow Machwara)
